@@ -205,6 +205,10 @@ header{
     line-height: 1.4;
 }
 
+.perFAQ {
+    border: 1px solid, rgba(0, 0, 0, 0.2);
+    margin: 10px 0;
+}
 
 
 
